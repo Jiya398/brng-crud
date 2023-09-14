@@ -1,0 +1,111 @@
+{
+     "barangay" :[
+     {
+          "barangayName": "Mexico",
+          "barangayNumber": "123",
+          "city": "Manila",
+          "province": "Metro Manila",
+          "population": 15000,
+          "landAreaSquareKm": 2.5,
+          "officials": [
+          {
+               "position": "Barangay Captain",
+               "name": "Lorem Ipsum"
+          },
+          {
+               "position": "Barangay Kagawad",
+               "name": "Lorem Ipsum"
+          },
+          {
+               "position": "Barangay Kagawad",
+               "name": "Lorem Ipsum"
+          }],
+          "facilities": [
+               "Elementary School",
+               "Hospital Center",
+               "Basketball Court",
+               "Public Market"
+          ]
+     },
+     {
+          "barangayName": "San Diego",
+          "barangayNumber": "189",
+          "city": "Davo",
+          "province": "Netro",
+          "population": 29000,
+          "landAreaSquareKm": 2.5,
+          "officials": [
+          {
+               "position": "Barangay Captain",
+               "name": "Lorem Ipsum"
+          },
+          {
+               "position": "Barangay Kagawad",
+               "name": "Lorem Ipsum"
+          },
+          {
+               "position": "Barangay Kagawad",
+               "name": "Lorem Ipsum"
+          }],
+          "facilities": [
+               "Elementary School",
+               "Health Center",
+               "Basketball Court",
+               "Public Market"
+          ]
+     },
+     {
+          "barangayName": "San Matthew",
+          "barangayNumber": "145",
+          "city": "Quezon",
+          "province": "Gumamela",
+          "population": 39000,
+          "landAreaSquareKm": 2.5,
+          "officials": [
+          {
+               "position": "Barangay Captain",
+               "name": "Lorem Ipsum"
+          },
+          {
+               "position": "Barangay Kagawad",
+               "name": "Lorem Ipsum"
+          },
+          {
+               "position": "Barangay Kagawad",
+               "name": "Lorem Ipsum"
+          }],
+          "facilities": [
+               "Health Center",
+               "Basketball Court",
+               "Public Market"
+          ]
+     },
+     {
+          "barangayName": "San Juan",
+          "barangayNumber": "123",
+          "city": "Santiagoz",
+          "province": "Linuz",
+          "population": 56000,
+          "landAreaSquareKm": 4.5,
+          "officials": [
+          {
+               "position": "Barangay Captain",
+               "name": "Lorem Ipsum"
+          },
+          {
+               "position": "Barangay Kagawad",
+               "name": "Lorem Ipsum"
+          },
+          {
+               "position": "Barangay Kagawad",
+               "name": "Lorem Ipsum"
+          }],
+          "facilities": [
+               "Elementary School",
+               "College City",
+               "Health Center",
+               "Public Market"
+          ]
+     }
+     ]
+}
